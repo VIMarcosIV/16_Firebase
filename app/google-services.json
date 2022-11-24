@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13848839109",
+    "project_id": "fir-dam2-2022-2023-msm",
+    "storage_bucket": "fir-dam2-2022-2023-msm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13848839109:android:fd56f31a16ef523baec1ac",
+        "android_client_info": {
+          "package_name": "org.iesch.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13848839109-jjip2b30dpuirm0rnph82sdpgvppkc48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbiYhf1v_u8aZ8lp14T-17H7tPFHvEzAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13848839109-jjip2b30dpuirm0rnph82sdpgvppkc48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
